@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Kad01_2",
+            "request": "launch",
+            "mainClass": "Kad01_2",
+            "projectName": "作成例(課題)_409cefcc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kad21_1",
+            "request": "launch",
+            "mainClass": "Kad21_1",
+            "projectName": "作成例(課題)_409cefcc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kad01_1",
+            "request": "launch",
+            "mainClass": "Kad01_1",
+            "projectName": "作成例(課題)_409cefcc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
